@@ -1,0 +1,26 @@
+.main-container {
+  align-items: center;
+}
+
+#form {
+  border: 2px solid red;
+  cursor: pointer;
+  padding: 50px;
+  margin: 10px;
+
+  width: 50%;
+}
+
+#div {
+  border: 2px solid blue;
+  cursor: pointer;
+  margin: 10px;
+  padding: 50px;
+}
+
+#ptag {
+  border: 2px solid green;
+  margin: 10px;
+  padding: 50px;
+  cursor: pointer;
+}
