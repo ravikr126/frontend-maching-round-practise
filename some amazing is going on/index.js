@@ -1,5 +1,0 @@
-require('./xyz')
-console.log('hii')
-const {x,sumation} =require("./sum")
-console.log(x)
-sumation(10,12)
